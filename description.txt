@@ -2,4 +2,8 @@ Class activity 3 by Zachary Black and Christopher Eichstedt
 
 Brief description-
 
-For the revision of the previous class activity, we refactored our game board into 3 different classes: Player, Game, Board. We completed our unit test cases for each class and applicable functions. In addition, we created several Integration Tests in which we test the overall relations of class dependencies. This was done by creating several scenarios in which player x and player o won, as well as an occurrence of a draw. For our unit testing model, we used the Bottom-Up strategy and concerning the integration model, we decided upon the Big Bang strategy. 
+For the revision of the previous class activity, we refactored our game board into 3 different classes: Player, Game, Board. 
+We completed our unit test cases for each class and applicable functions. 
+In addition, we created several Integration Tests in which we test the overall relations of class dependencies. 
+This was done by creating several scenarios in which player x and player o won, as well as an occurrence of a draw. 
+For our unit testing model, we used the Bottom-Up strategy and concerning the integration model, we decided upon the Big Bang strategy. 
